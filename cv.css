@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	text-align: justify;
+	
+}
+.header span{
+	color:orange;
+}
+.header{
+	text-align: center;
+}
+h2{
+	color:orange;
+}
+body{
+	background-color: lightgrey;
+}
+.negrita{
+	font-weight: bold;
+}
+.marco{
+	margin: 100px auto 100px auto;
+	width: 80%;
+	background-color: white;
+
+}
+.naranjo{
+	background-color: orange;
+	color: white;
+	font-weight: bold;
+	margin-bottom: 2px;
+}
+.toto{
+	width: 140px;
+	height: 140px;
+	border-radius: 50%;
+}
+.plomo{
+	background-color:lightgrey;
+	padding: 20px;
+	margin-bottom:5px; 
+}
+.margen{
+	padding:10px;
+}
+.futer{
+	padding-top: 88.4px;
+	width: 100%
+}
